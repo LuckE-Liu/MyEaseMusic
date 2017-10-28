@@ -47,7 +47,7 @@ class PrintLrc implements Runnable {
             System.out.println("纯音乐，请欣赏");
         } else if (lrcObject.isUncollected()) {
             System.out.println("歌词未收录");
-            System.exit(0);
+           return;
         } else {
             showSongInfo(songObject);
             showLrc(lrcObject);

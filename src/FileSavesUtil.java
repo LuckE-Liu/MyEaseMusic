@@ -48,7 +48,7 @@ public class FileSavesUtil {
             if (CONFIRM_1.equals(confirm) || CONFIRM_2.equals(confirm)) {
                 System.out.println("已被覆盖");
             } else {
-                System.exit(0);
+                return songName;
             }
         }
 
