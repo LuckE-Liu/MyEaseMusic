@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9592197-dde0-444d-ba2c-10bf9df714eb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../EaseLrc/README.md" />
-      <change beforePath="$PROJECT_DIR$/../EaseLrc/exe4jfile.exe4j" afterPath="$PROJECT_DIR$/../EaseLrc/exe4jfile.exe4j" />
+      <change beforePath="$PROJECT_DIR$/../EaseLrc/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../EaseLrc/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../EaseLrc/exe4jfile.exe4j" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/../EaseLrc/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileSavesUtil.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FileSavesUtil.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../EaseLrc/src/FileSavesUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="24">
               <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="method#saveLrc#0;class#FileSavesUtil#0" expanded="false" />
@@ -143,10 +143,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UrlAssembler.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UrlAssembler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../EaseLrc/src/UrlAssembler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
+            <state relative-caret-position="484">
               <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
               <folding>
                 <element signature="docComment;class#UrlAssembler#0" expanded="false" />
@@ -832,16 +832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../EaseLrc/src/FileSavesUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="method#saveLrc#0;class#FileSavesUtil#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../EaseLrc/src/HttpRequestUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
@@ -863,10 +853,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../EaseLrc/src/UrlAssembler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="484">
           <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
           <folding>
             <element signature="docComment;class#UrlAssembler#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EaseLrc/src/FileSavesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="method#saveLrc#0;class#FileSavesUtil#0" expanded="false" />
           </folding>
         </state>
       </provider>
