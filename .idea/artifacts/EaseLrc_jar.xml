@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="EaseLrc:jar">
+    <output-path>$PROJECT_DIR$/../EaseLrc/out/artifacts/EaseLrc_jar</output-path>
+    <root id="root">
+      <element id="archive" name="EaseLrc.jar">
+        <element id="module-output" name="EaseLrc" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="file-copy" path="$USER_HOME$/Downloads/gson-2.8.2.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>
