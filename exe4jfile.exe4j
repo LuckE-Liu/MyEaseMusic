@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <exe4j version="5.0.1" transformSequenceNumber="2">
-  <directoryPresets config="C:/Users/msi-pc/Desktop/MyEaseLrc/lib" />
+  <directoryPresets config="C:/Users/msi-pc/Desktop/MyEaseLrc/lib/JLayer1.0.1" />
   <application name="LrcGetter" distributionSourceDir="C:/Users/msi-pc/Desktop/MyEaseLrc">
     <languages>
       <principalLanguage id="en" customLocalizationFile="" />
@@ -26,6 +26,7 @@
       <archive location="./lib/gson-2.8.2.jar" failOnError="false" />
       <archive location="./lib/fastjson-1.2.32.jar" failOnError="false" />
       <archive location="./lib/jsoup-1.10.3.jar" failOnError="false" />
+      <archive location="./lib/JLayer1.0.1/jl1.0.1.jar" failOnError="false" />
     </classPath>
     <nativeLibraryDirectories />
   </java>
